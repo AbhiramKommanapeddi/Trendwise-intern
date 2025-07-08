@@ -1,0 +1,107 @@
+[
+  {
+    "keyword": "Artificial Intelligence 2025",
+    "searchVolume": 145000,
+    "category": "Technology",
+    "relevanceScore": 98,
+    "_id": "topic_1"
+  },
+  {
+    "keyword": "Quantum Computing Breakthrough",
+    "searchVolume": 89000,
+    "category": "Technology",
+    "relevanceScore": 94,
+    "_id": "topic_2"
+  },
+  {
+    "keyword": "5G to 6G Evolution",
+    "searchVolume": 76000,
+    "category": "Technology",
+    "relevanceScore": 87,
+    "_id": "topic_3"
+  },
+  {
+    "keyword": "ESG Sustainable Business",
+    "searchVolume": 98000,
+    "category": "Business",
+    "relevanceScore": 93,
+    "_id": "topic_4"
+  },
+  {
+    "keyword": "Remote Work Hybrid Models",
+    "searchVolume": 134000,
+    "category": "Business",
+    "relevanceScore": 96,
+    "_id": "topic_5"
+  },
+  {
+    "keyword": "CRISPR Gene Editing",
+    "searchVolume": 67000,
+    "category": "Science",
+    "relevanceScore": 97,
+    "_id": "topic_6"
+  },
+  {
+    "keyword": "Mars Colonization SpaceX",
+    "searchVolume": 178000,
+    "category": "Science",
+    "relevanceScore": 95,
+    "_id": "topic_7"
+  },
+  {
+    "keyword": "Global Climate Agreement",
+    "searchVolume": 89000,
+    "category": "Politics",
+    "relevanceScore": 91,
+    "_id": "topic_8"
+  },
+  {
+    "keyword": "Digital Democracy Blockchain",
+    "searchVolume": 34000,
+    "category": "Politics",
+    "relevanceScore": 86,
+    "_id": "topic_9"
+  },
+  {
+    "keyword": "AI Sports Coaching",
+    "searchVolume": 43000,
+    "category": "Sports",
+    "relevanceScore": 83,
+    "_id": "topic_10"
+  },
+  {
+    "keyword": "2026 World Cup Sustainability",
+    "searchVolume": 198000,
+    "category": "Sports",
+    "relevanceScore": 95,
+    "_id": "topic_11"
+  },
+  {
+    "keyword": "Virtual Reality Cinema",
+    "searchVolume": 67000,
+    "category": "Entertainment",
+    "relevanceScore": 89,
+    "_id": "topic_12"
+  },
+  {
+    "keyword": "Streaming Wars AI Content",
+    "searchVolume": 145000,
+    "category": "Entertainment",
+    "relevanceScore": 91,
+    "_id": "topic_13"
+  },
+  {
+    "keyword": "Mental Health Technology",
+    "searchVolume": 123000,
+    "category": "Health",
+    "relevanceScore": 94,
+    "_id": "topic_14"
+  },
+  {
+    "keyword": "Longevity Medicine",
+    "searchVolume": 78000,
+    "category": "Health",
+    "relevanceScore": 88,
+    "_id": "topic_15"
+  }
+]
